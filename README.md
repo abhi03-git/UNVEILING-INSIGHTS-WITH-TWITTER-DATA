@@ -85,18 +85,19 @@ The project is supported by a comprehensive literature survey of 100+ scholarly 
 ### Team Members:
 Name	Roll No	Role
 Banala Abhishek	22UJ1A6604	Project Lead & Data Analyst
+
 Kandukoori Vangmayi Patel	22UJ1A6626	Research Analyst
+
 Bommineni Avinash Reddy	22UJ1A6608	Model Developer
+
 Ganta Siddartha	22UJ1A6618	Data Preprocessing & Visualization
+
 Velagalety Akash Dutt	22UJ1A6658	Documentation & Evaluation
 
 ### Guide:
 Dr. B. Ramesh Babu, Ph.D.
-
 Assistant Professor,
-
 Department of Computer Science and Engineering (AI & ML),
-
 Malla Reddy Engineering College and Management Sciences, Hyderabad.
 
 ### Conclusion:
