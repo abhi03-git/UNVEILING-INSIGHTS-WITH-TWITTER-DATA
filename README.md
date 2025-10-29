@@ -68,3 +68,48 @@ The project follows a structured data analytics workflow:
 > Gamification and personalization significantly improve engagement.
 
 > Machine learning models outperform traditional survey-based research methods in accuracy and scale.
+
+### References:
+The project is supported by a comprehensive literature survey of 100+ scholarly works on topics including:
+
+> Mobile user behavior analysis
+
+> Data-driven marketing and recommendation systems
+
+> Machine learning in behavioral analytics
+
+> Digital engagement and UX optimization
+
+(Key references include Blondel et al. [43], Eagle et al. [44], Dwivedi et al. [18], Sharma & Saini et al. [28], and Kantar IMRB et al. [24].)
+
+### Team Members:
+Name	Roll No	Role
+Banala Abhishek	22UJ1A6604	Project Lead & Data Analyst
+Kandukoori Vangmayi Patel	22UJ1A6626	Research Analyst
+Bommineni Avinash Reddy	22UJ1A6608	Model Developer
+Ganta Siddartha	22UJ1A6618	Data Preprocessing & Visualization
+Velagalety Akash Dutt	22UJ1A6658	Documentation & Evaluation
+
+### Guide:
+Dr. B. Ramesh Babu, Ph.D.
+
+Assistant Professor,
+
+Department of Computer Science and Engineering (AI & ML),
+
+Malla Reddy Engineering College and Management Sciences, Hyderabad.
+
+### Conclusion:
+
+This project demonstrates how data analytics and machine learning can transform raw mobile data into actionable business intelligence. It offers a scalable, real-time, and objective framework for understanding user behavior, aiding in personalized marketing, UX enhancement, and consumer engagement strategies in the Indian digital ecosystem.
+
+### License:
+
+© 2025 Malla Reddy Engineering College and Management Sciences.
+This project is submitted as part of the academic curriculum for the B.Tech (CSE – AI & ML) program (2022–2026).
+
+### 🌐 Connect:
+
+👤 Banala Abhishek
+
+📧 [abhishekbanala03@gmail.com]
