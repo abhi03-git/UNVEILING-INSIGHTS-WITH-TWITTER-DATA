@@ -83,16 +83,17 @@ The project is supported by a comprehensive literature survey of 100+ scholarly 
 (Key references include Blondel et al. [43], Eagle et al. [44], Dwivedi et al. [18], Sharma & Saini et al. [28], and Kantar IMRB et al. [24].)
 
 ### Team Members:
-Name	Roll No	Role
-Banala Abhishek	22UJ1A6604	Project Lead & Data Analyst
+Name	              Roll No	        Role
 
-Kandukoori Vangmayi Patel	22UJ1A6626	Research Analyst
+Banala Abhishek	22UJ1A6604 - Project Lead & Data Analyst
 
-Bommineni Avinash Reddy	22UJ1A6608	Model Developer
+Kandukoori Vangmayi Patel	22UJ1A6626 - Research Analyst 
 
-Ganta Siddartha	22UJ1A6618	Data Preprocessing & Visualization
+Bommineni Avinash Reddy	22UJ1A6608 - Model Developer
 
-Velagalety Akash Dutt	22UJ1A6658	Documentation & Evaluation
+Ganta Siddartha	22UJ1A6618 - Data Preprocessing & Visualization
+
+Velagalety Akash Dutt	22UJ1A6658 - Documentation & Evaluation
 
 ### Guide:
 Dr. B. Ramesh Babu, Ph.D.
